@@ -1,3 +1,7 @@
+C:\Users\Pichau\sistema-vendas-java\src\main\java\com\vendas\config\DatabaseConfig.java
 C:\Users\Pichau\sistema-vendas-java\src\main\java\com\vendas\exception\StockInsuficienteException.java
+C:\Users\Pichau\sistema-vendas-java\src\main\java\com\vendas\Main.java
 C:\Users\Pichau\sistema-vendas-java\src\main\java\com\vendas\model\Cliente.java
 C:\Users\Pichau\sistema-vendas-java\src\main\java\com\vendas\model\Produto.java
+C:\Users\Pichau\sistema-vendas-java\src\main\java\com\vendas\repository\ProdutoRepository.java
+C:\Users\Pichau\sistema-vendas-java\src\main\java\com\vendas\service\VendaService.java

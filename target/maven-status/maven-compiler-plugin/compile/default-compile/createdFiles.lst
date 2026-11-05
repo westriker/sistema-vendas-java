@@ -1,3 +1,7 @@
 com\vendas\exception\StockInsuficienteException.class
 com\vendas\model\Cliente.class
 com\vendas\model\Produto.class
+com\vendas\config\DatabaseConfig.class
+com\vendas\repository\ProdutoRepository.class
+com\vendas\Main.class
+com\vendas\service\VendaService.class
