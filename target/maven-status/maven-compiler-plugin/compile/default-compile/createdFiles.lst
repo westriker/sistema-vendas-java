@@ -1,0 +1,3 @@
+com\vendas\exception\StockInsuficienteException.class
+com\vendas\model\Cliente.class
+com\vendas\model\Produto.class

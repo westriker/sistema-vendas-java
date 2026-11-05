@@ -1,0 +1,4 @@
+com\vendas\service\VendaService.class
+com\vendas\model\ProdutoTest.class
+com\vendas\model\ClienteTest.class
+com\vendas\service\VendaServiceTest.class
